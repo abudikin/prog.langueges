@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\bin\Debug\project 1.exe.config
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\bin\Debug\project 1.exe
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\bin\Debug\project 1.pdb
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project 1.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project_1.Form1.resources
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project_1.Properties.Resources.resources
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project 1.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project 1.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project 1.exe
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project 1.pdb
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project_1.Form2.resources
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project_1.Form3.resources
+C:\Users\Артур\Desktop\учеба\C#\1 laba\project 1\project 1\obj\Debug\project_1.Form4.resources
