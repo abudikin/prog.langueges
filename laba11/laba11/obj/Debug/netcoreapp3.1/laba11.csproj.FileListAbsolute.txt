@@ -1,0 +1,14 @@
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.exe
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.deps.json
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.runtimeconfig.json
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.runtimeconfig.dev.json
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.dll
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\bin\Debug\netcoreapp3.1\laba11.pdb
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.csproj.AssemblyReference.cache
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.AssemblyInfoInputs.cache
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.AssemblyInfo.cs
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.csproj.CoreCompileInputs.cache
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.dll
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.pdb
+C:\Users\artbu\Desktop\учеба\.net\laba11\laba11\obj\Debug\netcoreapp3.1\laba11.genruntimeconfig.cache

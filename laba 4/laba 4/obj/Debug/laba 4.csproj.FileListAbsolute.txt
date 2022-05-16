@@ -1,0 +1,10 @@
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\bin\Debug\laba 4.exe.config
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\bin\Debug\laba 4.exe
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\bin\Debug\laba 4.pdb
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba 4.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba_4.Form1.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba_4.Properties.Resources.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba 4.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba 4.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba 4.exe
+C:\Users\Артур\Desktop\учеба\C#\laba 4\laba 4\obj\Debug\laba 4.pdb

@@ -1,0 +1,20 @@
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\bin\Debug\laba 2.exe.config
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\bin\Debug\laba 2.exe
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\bin\Debug\laba 2.pdb
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba 2.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form1.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form2.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Properties.Resources.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba 2.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba 2.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba 2.exe
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba 2.pdb
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form3.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form4.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form5.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form6.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form7.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form8.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form9.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form10.resources
+C:\Users\Артур\Desktop\учеба\C#\laba 2\laba 2\obj\Debug\laba_2.Form11.resources

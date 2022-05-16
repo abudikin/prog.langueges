@@ -1,0 +1,14 @@
+C:\Users\artbu\source\repos\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.exe
+C:\Users\artbu\source\repos\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.deps.json
+C:\Users\artbu\source\repos\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.json
+C:\Users\artbu\source\repos\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.dev.json
+C:\Users\artbu\source\repos\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.dll
+C:\Users\artbu\source\repos\laba8\laba8\bin\Debug\netcoreapp3.1\laba8.pdb
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.csproj.AssemblyReference.cache
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfoInputs.cache
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfo.cs
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.csproj.CoreCompileInputs.cache
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.dll
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.pdb
+C:\Users\artbu\source\repos\laba8\laba8\obj\Debug\netcoreapp3.1\laba8.genruntimeconfig.cache
