@@ -8,3 +8,13 @@ C:\Users\artbu\Desktop\учеба\.net\laba\laba\bin\Debug\laba.exe
 C:\Users\artbu\Desktop\учеба\.net\laba\laba\bin\Debug\laba.pdb
 C:\Users\artbu\Desktop\учеба\.net\laba\laba\obj\Debug\laba.exe
 C:\Users\artbu\Desktop\учеба\.net\laba\laba\obj\Debug\laba.pdb
+C:\Users\Student\Desktop\prog.langueges\laba\laba\bin\Debug\laba.exe.config
+C:\Users\Student\Desktop\prog.langueges\laba\laba\bin\Debug\laba.exe
+C:\Users\Student\Desktop\prog.langueges\laba\laba\bin\Debug\laba.pdb
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.Form1.resources
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.Properties.Resources.resources
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.exe
+C:\Users\Student\Desktop\prog.langueges\laba\laba\obj\Debug\laba.pdb

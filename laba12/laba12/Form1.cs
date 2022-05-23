@@ -88,11 +88,42 @@ namespace laba12
         {
             Bitmap bmp = (Bitmap)pictureBox1.Image;
 
-           
-            IFilter filter = new BaseResizeFilter(2000,200);
+            IFilter sepia = new Sepia();
 
-            pictureBox1.Image = filter.Apply(bmp);
+            pictureBox1.Image = sepia.Apply(bmp);
+
 
         }
-    }
+
+		private void button5_Click(object sender, EventArgs e)
+		{
+            Bitmap bmp = (Bitmap)pictureBox1.Image;
+
+            IFilter smooth = new AdaptiveSmoothing();
+            pictureBox1.Image = smooth.Apply(bmp);
+        }
+
+		private void panel3_Paint(object sender, PaintEventArgs e)
+		{
+
+		}
+
+		private void button6_Click(object sender, EventArgs e)
+		{
+           
+            textBox1.Text = pictureBox1.Image.Width.ToString();
+            textBox2.Text = pictureBox1.Image.Height.ToString();
+        }
+
+		private void button7_Click(object sender, EventArgs e)
+		{
+            int h, w;
+            w = Convert.ToInt32(textBox1.Text);
+            h = Convert.ToInt32(textBox2.Text);
+            Bitmap bmp = (Bitmap)pictureBox1.Image;
+            BaseResizeFilter size = new ResizeBilinear(w, h);
+            pictureBox1.Image = size.Apply(bmp);
+
+        }
+	}
 }

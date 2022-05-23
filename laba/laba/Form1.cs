@@ -75,7 +75,7 @@ namespace laba
         private void button3_Click(object sender, EventArgs e)
         {
             XmlDocument document = new XmlDocument();
-            document.Load("as.xml");
+            document.Load(textBox1.Text+".xml");
 
             XmlNode root = document.DocumentElement;
             foreach (XmlNode node in root.ChildNodes)
@@ -96,6 +96,7 @@ namespace laba
                     elem.Attributes.Append(attribute1);
                 }
             }
+            textBox1.Clear();
             document.Save("test.xml");
         }
     }
