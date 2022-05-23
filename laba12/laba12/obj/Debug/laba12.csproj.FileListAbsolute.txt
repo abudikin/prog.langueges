@@ -1,0 +1,17 @@
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.csproj.AssemblyReference.cache
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.Form1.resources
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.Properties.Resources.resources
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.csproj.GenerateResource.cache
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.csproj.CoreCompileInputs.cache
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\laba12.exe.config
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\laba12.exe
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\laba12.pdb
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\AForge.dll
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\AForge.Imaging.dll
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\AForge.Math.dll
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\AForge.xml
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\AForge.Imaging.xml
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\bin\Debug\AForge.Math.xml
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.csproj.CopyComplete
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.exe
+C:\Users\artbu\Desktop\учеба\.net\laba12\laba12\obj\Debug\laba12.pdb
